@@ -43,7 +43,7 @@ Our industry is always on the move. Some of the things you learn today will not 
 * Raise your hand if the company is asking for volunteers to try out or learn a new technology. Those are golden opportunities to learn new things while getting paid for it.
 * Learn from great open source projects. Crack the code open, and read. See how others solve problems, not just technical, but also about code organisation, maintenability, documentation, etc. This is an invaluable and inexhaustible source of inspiration and knowledge. Use it.
 
-## Know they <del>enemy</del> future employer
+## Know thy <del>enemy</del> future employer
 
 * What's written on the job offer? Too many buzz words? Do you fear you are not a good match? Know that job offers using many buzz words sometimes serve to attract candidates, not filter them out. If you know JS well, but have no experience in React, you can learn on the job; don't let the lack of experience in specific frameworks turn you off. Of course, if they ask for Java and you only know JS or PHP, then it would be waste of time…
 * Know the company! What do they do? What projects or products do they offer? Do they have a blog? Do employees speak at conferences? Gather as much info as you can. If such topics come up during the interview, it will allow you to show genuine interest in the company. And believe me, a candidate showing up for an interview that doesn't have a clue what the company actually does can be quite a show stopper.
